@@ -20,7 +20,7 @@ export default function Home() {
             <span className="text-cyan-400 font-medium text-xs sm:text-sm">Open to Opportunities</span>
           </div>
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-3 sm:mb-4 tracking-tight animate-fadeInUp delay-100 drop-shadow-lg px-4">
-            GAURAV TAYADE
+            Gaurav Tayade
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-gray-300 mb-6 sm:mb-8 font-medium animate-fadeInUp delay-200">
             DevOps / Cloud Engineer
@@ -391,7 +391,7 @@ export default function Home() {
                   ),
                   label: "GitHub",
                   value: "gauravtayade",
-                  href: "https://github.com/gauravtayade",
+                  href: "https://github.com/gauravtayade11",
                   color: "purple"
                 }
               ].map((contact, index) => (
